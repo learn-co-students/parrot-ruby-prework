@@ -3,8 +3,8 @@
 
 def parrot(say = "Squawk!")
   puts "#{say}"
-  return "#{say}"
+  return "#{say}" 
 end
 
-
+parrot("Squawk!")
   
