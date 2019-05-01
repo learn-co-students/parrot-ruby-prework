@@ -7,4 +7,4 @@ def parrot(say = "Squawk!")
 end
 
 parrot("Squawk!")
-  
+parrot("Pretty bird!")
